@@ -1,11 +1,11 @@
 body{
-  backround-color: #ff0000;
+  background-color: #ff0000;
 }
 h1{
   text-align: center;
   color: red;
 }
-p{
+p1{
   text-align: center;
   color: blue;
 }
