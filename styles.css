@@ -1,8 +1,9 @@
 body{
-  backround-color: red;
+  backround-color: #ff0000;
 }
 h1{
   text-align: center;
+  color: red;
 }
 p{
   text-align: center;
