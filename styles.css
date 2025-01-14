@@ -5,10 +5,15 @@ h1{
   text-align: center;
   color: red;
 }
+h2{
+  text-align: center;
+}
 p1{
   text-align: center;
   color: blue;
 }
-h2{
+p2{
   text-align: center;
+  color: yellow;
 }
+
