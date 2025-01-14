@@ -1,15 +1,14 @@
 body{
-  backround-color: #ffffff;
+  backround-color: red;
 }
 h1{
    text-align: center;
+  color: green;
 }
 p{
   text-align: center;
+  color: blue;
 }
 h2{
   text-align: center;
-}
-p{
-  text-align: right;
 }
